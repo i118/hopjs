@@ -3,7 +3,7 @@
 
 hopjs.window.i18n["ru"] = {
 	fullScreen: "Во весь экран",
-	restore: "Востановить",
+	restore: "Восcтановить",
 	hide: "Закрыть"
 };
 
